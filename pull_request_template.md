@@ -13,8 +13,9 @@ _insert description_
 This is a:
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] Change to testing (non-breaking change)
-- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Refactor (non-breaking change)
+- [ ] New or improved tests (non-breaking change)
+- [ ] New feature (non-breaking change which adds functionality or implements non-functional requirement)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 - [ ] Documentation or design proposal
 
